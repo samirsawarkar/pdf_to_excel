@@ -72,7 +72,6 @@ def process_pdfs_in_folder(folder_path):
 
 # Specify the folder containing the PDFs
 pdf_folder_path = input("Specify the folders for input and output")
-"/Users/samir/python /dada's project/ai/som"
 process_pdfs_in_folder(pdf_folder_path)
 
 
